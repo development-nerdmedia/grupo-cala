@@ -1,0 +1,12 @@
+<svg width="27" height="28" viewBox="0 0 27 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="twemoji:flag-colombia" clip-path="url(#clip0_659_86)">
+<path id="Vector" d="M24 4.25H3C2.20435 4.25 1.44129 4.56607 0.87868 5.12868C0.316071 5.69129 0 6.45435 0 7.25L0 14H27V7.25C27 6.45435 26.6839 5.69129 26.1213 5.12868C25.5587 4.56607 24.7956 4.25 24 4.25Z" fill="#FBD116"/>
+<path id="Vector_2" d="M0 14H27V19.25H0V14Z" fill="#22408C"/>
+<path id="Vector_3" d="M0 20.75C0 21.5456 0.316071 22.3087 0.87868 22.8713C1.44129 23.4339 2.20435 23.75 3 23.75H24C24.7956 23.75 25.5587 23.4339 26.1213 22.8713C26.6839 22.3087 27 21.5456 27 20.75V19.25H0V20.75Z" fill="#CE2028"/>
+</g>
+<defs>
+<clipPath id="clip0_659_86">
+<rect width="27" height="27" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>
